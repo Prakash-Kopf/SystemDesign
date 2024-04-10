@@ -154,7 +154,7 @@ A dynamic IP address changes from time to time and is not always the same. It ha
 
 _Example: They are more commonly used for consumer equipment and personal use._
 
-# OSI Model
+# OSI Model (Open Systems Interconnection)
 
 The OSI Model is a logical and conceptual model that defines network communication used by systems open to interconnection and communication with other systems. The Open System Interconnection (OSI Model) also defines a logical network and effectively describes computer packet transfer by using various layers of protocols.
 
