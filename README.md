@@ -387,7 +387,7 @@ Generally speaking, load balancers operate at one of the two levels:
 
 ### Network layer
 
-This is the load balancer that works at the network's transport layer, also known as layer 4. This performs routing based on networking information such as IP addresses and is not able to perform content-based routing. These are often dedicated hardware devices that can operate at high speed.
+This is the load balancer that works at the network's transport layer, also known as layer 3. This performs routing based on networking information such as IP addresses and is not able to perform content-based routing. These are often dedicated hardware devices that can operate at high speed.
 
 ### Application layer
 
