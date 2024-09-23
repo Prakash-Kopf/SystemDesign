@@ -1201,6 +1201,7 @@ Multi-model databases combine different database models (i.e. relational, graph,
 - [ArangoDB](https://www.arangodb.com)
 - [Azure Cosmos DB](https://azure.microsoft.com/en-in/services/cosmos-db)
 - [Couchbase](https://www.couchbase.com)
+- [YDB](https://ydb.tech)
 
 # SQL vs NoSQL databases
 
