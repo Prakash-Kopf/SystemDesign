@@ -254,8 +254,8 @@ DNS lookup involves the following eight steps:
 2. The resolver then recursively queries a DNS root nameserver.
 3. The root server responds to the resolver with the address of a Top-Level Domain (TLD).
 4. The resolver then makes a request to the `.com` TLD.
-5. The TLD server then responds with the IP address of the domain's nameserver, [example.com](http://example.com).
-6. Lastly, the recursive resolver sends a query to the domain's nameserver.
+5. The TLD server then responds to the query by pointing the resolver to the authoritative nameservers for example.com, [example.com](http://example.com).
+6. Lastly, the recursive resolver sends a query to the authoritative nameserver of the domain example.com
 7. The IP address for [example.com](http://example.com) is then returned to the resolver from the nameserver.
 8. The DNS resolver then responds to the web browser with the IP address of the domain requested initially.
 
